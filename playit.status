@@ -1,690 +1,630 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726432194852 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726509273016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432197948 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509288162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432201095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509291235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432204174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509294312 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432207232 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509297374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432210302 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509312488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432213360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509315562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432216419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509318645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432219473 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509321711 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432222545 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509336811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432225608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509339873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432228663 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509342938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432231738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509346026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432234798 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509361127 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432237860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509364184 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432240925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509367245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432244001 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509382354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432247059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509385674 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432250126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509388748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432253212 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509403840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432256274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509406900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432259328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509409954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432262429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509413085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432265500 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509428185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432268555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509431269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432271610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509434348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432274667 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509449449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432277734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509452512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432280790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509455586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432283843 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509470719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432286949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509473836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432290010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509476895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432293085 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509491993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432296148 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509495053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432299220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509498113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432302289 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509513205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432305348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509516285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432308409 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509531386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432311486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509534455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432314559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509537546 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432317639 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509552660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432320843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509555738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432324471 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509558862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432327538 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509573962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432330616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509577047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432333672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509580112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432336735 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509595218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432339790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509598278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432342846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509601347 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432345905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509604403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432348957 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509619531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432352021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509622624 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432355089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509625677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432358160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509628739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432361248 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509643859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432364312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509646913 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432367368 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509662048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432370421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509665113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432373478 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509668200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432376535 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509671287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432379602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509674352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432382660 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509689468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432385717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509692530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432388769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509695642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432391824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509698705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432394892 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509713828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432397958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509716888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432401037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509719961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432404094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509723024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432407153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509726090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432410236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509729151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432413294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509732221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432416422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509735282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432419496 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509750391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432422576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509753468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432425637 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509756541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432428696 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509771655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432431769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509774724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432434850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509777787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432437912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509780864 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432440975 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509783943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432444038 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509799067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432447153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509802132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432450212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509805218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432453282 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509820418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432456357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509823547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432459413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509826608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432462482 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726509841746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432465552 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509844816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432468621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509847890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432471680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509850961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432474748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726509854028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
 company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432477814 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432480872 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432483935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432487002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432490066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432493129 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432496187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432499245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432502304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432505369 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432508433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432511497 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432514554 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432517623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432520691 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432523758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432526825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432529886 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432532945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432536010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432539067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432542132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726432545194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-quote-metallica.gl.at.ply.gg:3095 => 127.0.0.1:3095 (minecraft-bedrock)
-company-condition.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
